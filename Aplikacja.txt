@@ -15,3 +15,9 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+  public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Podaj kod z e-mail");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }

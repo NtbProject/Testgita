@@ -15,3 +15,10 @@
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+  public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Podaj 6 cyfrowy kod sms");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
